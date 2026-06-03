@@ -1,0 +1,15 @@
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\bin\Debug\net10.0\Practica-SOLID.exe
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\bin\Debug\net10.0\Practica-SOLID.deps.json
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\bin\Debug\net10.0\Practica-SOLID.runtimeconfig.json
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\bin\Debug\net10.0\Practica-SOLID.dll
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\bin\Debug\net10.0\Practica-SOLID.pdb
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\Practica-SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\Practica-SOLID.AssemblyInfoInputs.cache
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\Practica-SOLID.AssemblyInfo.cs
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\Practica-SOLID.csproj.CoreCompileInputs.cache
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\Practica-SOLID.sourcelink.json
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\Practica-SOLID.dll
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\refint\Practica-SOLID.dll
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\Practica-SOLID.pdb
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\Practica-SOLID.genruntimeconfig.cache
+C:\Users\ledes\OneDrive\Escritorio\Trabajo de vitol\SOLID\Solid\obj\Debug\net10.0\ref\Practica-SOLID.dll
